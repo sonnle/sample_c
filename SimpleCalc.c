@@ -6,6 +6,10 @@
 #define MAXOP 100
 #define NUMBER '0'
 
+/*
+ * Adding a comment for git test purposes
+ */
+
 int getop(char[]);
 void push(double);
 double pop(void);
