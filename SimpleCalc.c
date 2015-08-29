@@ -6,6 +6,8 @@
 #define MAXOP 100
 #define NUMBER '0'
 
+/* Adding other things for merge conflict */
+
 int getop(char[]);
 void push(double);
 double pop(void);
