@@ -8,6 +8,8 @@
 
 /*
  * Adding a comment for git test purposes
+ *
+ * Adding other things for merge conflict 
  */
 
 int getop(char[]);
