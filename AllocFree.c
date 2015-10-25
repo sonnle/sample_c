@@ -2,7 +2,7 @@
 
 static char allocbuf[ALLOCSIZE];
 static char *allocp = allocbuf;
-
+// blah blah blah
 char *alloc(int n)
 {
 	if(allocbuf + ALLOCSIZE - allocp >= n)
